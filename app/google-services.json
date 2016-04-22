@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "myconference-5331",
+    "project_number": "409377191086",
+    "name": "MyConference"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409377191086:android:96a7164f57b13f5b",
+        "client_id": "android:com.crossover.myconference",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.crossover.myconference",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409377191086-dh81neuuosjrd75esau0ktroqa3tu9nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crossover.myconference",
+            "certificate_hash": "55F71EB0109700D21888276332C28B0A10F7BAD5"
+          }
+        },
+        {
+          "client_id": "409377191086-onqfomb1htnru33cels6i372iohqe5a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
